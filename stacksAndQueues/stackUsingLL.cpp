@@ -1,4 +1,3 @@
-//{ Driver Code Starts
 #include <iostream>
 #include <string>
 using namespace std;
